@@ -399,7 +399,6 @@ PROTFOLIO SECTION PART
      width: 100%;
  }
  .image-items img{
-     width: 100%;
      display: block;
  }
  /*=======================================
@@ -580,9 +579,7 @@ FOOTER SECTION PART HERE
     text-align: center;
     font-size: 14px;
 }
- /*=======================================
-HEADER PART START
- ====================================== */
+
 
 
 
